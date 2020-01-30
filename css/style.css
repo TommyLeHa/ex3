@@ -5,8 +5,14 @@ header{
     background-color: aliceblue;
     border: 4px solid deepskyblue;
 }
+main{
+    border: 3px solid deepskyblue;
+}
 h1{
     font-family: Arial;
     font-size: 20px;
     color: cadetblue;
+}
+footer{
+    border: 3px solid deepskyblue;
 }
