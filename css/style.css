@@ -1,8 +1,11 @@
 body{
     font-family: Arial;
 }
-
+header{
+    background-color: cornsilk;
+}
 h1{
     font-family: Arial;
     font-size: 20px;
+    color: cadetblue;
 }
